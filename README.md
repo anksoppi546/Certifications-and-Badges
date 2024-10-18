@@ -6,4 +6,5 @@
 - [Introduction to Cybersecurity](https://www.credly.com/badges/ec74258b-6de8-4b04-90d4-04ca3e5d87b6/public_url) by "Cisco Networking Academy"
 - [AI-Powered Shopping ads Certification](https://skillshop.credential.net/565a7a5d-8676-4543-a2bd-eeaf67c16425) by "Google Digital Academy (Skillshop)"
 - [Digital Marketing Skills](https://www.futurelearn.com/certificates/s9qe130) by "FutureLearn"
-- [Introducing social care and social work](https://www.open.edu/openlearn/blocks/ocwstatement/statement.php?id=19319&user=4198669&f=1) by "The Open University"
+- [Introducing social care and social work](https://drive.google.com/file/d/1CSJWuHLdCIRiJ7DYmVakuVcE_fvXt83J/view?usp=sharing) by "The Open University"
+- [RBI_Quiz_Participation](https://drive.google.com/file/d/1TNxFWTh5lkjLDwCwSUxehsqKPPmDcbU2/view?usp=sharing) by "RBI"
