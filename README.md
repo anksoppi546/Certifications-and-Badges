@@ -7,3 +7,5 @@
 - [AI-Powered Shopping ads Certification](https://skillshop.credential.net/565a7a5d-8676-4543-a2bd-eeaf67c16425) by "Google Digital Academy (Skillshop)"
 - [Digital Marketing Skills](https://www.futurelearn.com/certificates/s9qe130) by "FutureLearn"
 - [Introducing social care and social work](https://drive.google.com/file/d/1CSJWuHLdCIRiJ7DYmVakuVcE_fvXt83J/view?usp=sharing) by "The Open University"
+- <a href="https://github.com/your-repo" target="_blank">Open GitHub Repo</a>
+
