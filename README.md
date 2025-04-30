@@ -16,7 +16,6 @@
 - [AI-Powered Shopping ads Certification](https://skillshop.credential.net/565a7a5d-8676-4543-a2bd-eeaf67c16425) by "Google Digital Academy (Skillshop)"
 - [Digital Marketing Skills](https://www.futurelearn.com/certificates/s9qe130) by "FutureLearn"
 - [Google Ads Apps Certification](https://skillshop.credential.net/03129578-a3ed-4f7c-a86d-d3024ff56032#acc.E7zOTkls) by "Google Digital Academy (Skillshop)"
-- [Introducing social care and social work](https://drive.google.com/file/d/1CSJWuHLdCIRiJ7DYmVakuVcE_fvXt83J/view?usp=sharing) by "The Open University"
 - [Google Ads - Measurement Certification](https://skillshop.credential.net/2ba1635c-33c4-4443-a385-8cd58ab4ad45#acc.9BrwzlcW) by "Google Digital Academy (Skillshop)"
 - [Google Ads Creative Certification](https://skillshop.credential.net/09f2ef4a-fa22-487d-8b0a-65b2b8c2e522#acc.X5pqBgK3) by "Google Digital Academy (Skillshop)"
 - [Gemini for end-to-end SDLC](https://www.cloudskillsboost.google/public_profiles/40c0a6a4-ea87-4be7-91dc-ec3081ea6c80/badges/14988779) by "Google Cloud Skill Boost"
